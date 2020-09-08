@@ -1,4 +1,4 @@
-# forflyaway
+# Nuxt to show
 
 > My sweet Nuxt.js project
 
