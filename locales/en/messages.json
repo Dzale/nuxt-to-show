@@ -1,0 +1,17 @@
+{
+  "review": {
+    "success_created": "Thank you!"
+  },
+  "contact": {
+    "success_created": "Thank you!"
+  },
+  "ad": {
+    "success_created": "Thank you!"
+  },
+  "user": {
+    "success_updated": "Thank you for success_updated!",
+    "success_uploaded_avatar": "Thank you for success_uploaded_avatar!",
+    "success_updated_favorite": "Your favorite list is successfully updated!",
+    "success_updated_wishlist": "Your wishlist is successfully updated!"
+  }
+}

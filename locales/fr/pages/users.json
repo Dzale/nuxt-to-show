@@ -1,0 +1,53 @@
+{
+  "user": {
+    "basic-info": {
+      "item1"         : "Aéroclub",
+      "item2"         : "Appareil",
+      "item3"         : "Licence",
+      "item4"         : "Heures de vol",
+      "unregister"    : "Enregistrer"
+    },
+    "btn": {
+      "edit"          : "Enregistrer",
+      "upload-avatar" : "Envoyer l'image",
+      "cancel" : "Annuler"
+    },
+    "gender-options": {
+      "male"  : "Homme",
+      "female": "Femme",
+      "other" : "Autre"
+    },
+    "presentation": "Présentation",
+    "firstname": "Prénom",
+    "lastname": "Nom",
+    "gender": "Genre",
+    "dob": "Date de naissance",
+    "bio": "Biographie",
+    "address": "Adresse",
+    "favorite-plane": "Appareil favori",
+    "pilot-licence-type": "Type de licence",
+    "first-flight-date": "Date du premier vol",
+    "flight-hours-count": "Nombre d'heures de vol",
+    "wish-list": "Liste de souhaits",
+    "wish-list-title": "Mes projets de voyage",
+    "favorite-list": "Liste des favoris",
+    "favorite-list-title": "Mes aérodromes favoris",
+    "edit-mode": {
+      "basic-info"    : "Informations de base",
+      "career"        : "À propos de moi",
+      "addition-info" : "Informations additionnelles"
+    },
+    "flightHours": {
+      "item1": "Moins de 100",
+      "item2": "101 à 500",
+      "item3": "501 à 1000",
+      "item4": "1001 à 2000",
+      "item5": "2001 à 3000",
+      "item6": " + de 3001"
+    },
+    "comments": "Dernier commentaires",
+    "airport_review": "Posté sur"
+  }
+
+
+}

@@ -1,0 +1,14 @@
+{
+    "result" : "Result",
+    "more_filters" : "More filters",
+    "update" : "Update",
+    "more" : "More",
+    "filter_title" : "Par catégorie :",
+    "checkboxes": {
+        "item1" : "Ouvert CAP",
+        "item2" : "Usage restreint",
+        "item3" : "Terrain privé",
+        "item4" : "Ils viennent vous chercher"
+    },
+    "distance": "Distance par rapport à l’adresse"
+}

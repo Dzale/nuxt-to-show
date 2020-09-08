@@ -1,0 +1,72 @@
+{
+  "navigation": {
+    "item1" : "À propos",
+    "item2" : "Équipements",
+    "item3" : "Informations",
+    "item4" : "Services",
+    "item5" : "Commentaires",
+    "item6" : "A visiter",
+    "item7" : "Favoris"
+  },
+  "download": "Télécharger la carte VAC",
+  "notes": "Notes",
+  "code": "Code OACI",
+  "propos": "À propos de l’aérodrome",
+  "equipments": "Équipements",
+  "equipment": {
+    "item1" : "Ouvert à la CAP",
+    "item2" : " sociétés viennents vous chercher ici",
+    "item3" : "Avitaillement H24",
+    "item4" : "Aérodrome douanier",
+    "item5" : "Restauration sur site",
+    "item6" : "Camping / hébergement sur site",
+    "item7" : "Atelier mécanique",
+    "item8" : "Parking pour avion - Couvert",
+    "item9" : "Transport en commun depuisl’aérodrome (Bus, Métro, Tramway,Train et Navette)"
+  },
+  "info" : "Informations pratiques",
+  "info-items": {
+    "item1" : "Longueur de la piste",
+    "item2" : "Distance centre ville",
+    "item3" : "Taxe d’atterrissage",
+    "item4" : "Tarif parking avion",
+    "more_than": "More then 1 km",
+    "less_than": "Less then 1 km"
+  },
+  "services" : "Services",
+  "service-items": {
+    "item1": "All",
+    "item2": "Hébergement",
+    "item3": "Restaurants",
+    "item4": "Transports",
+    "item5": "Expériences"
+  },
+  "localisation": "Localisation / Contacts",
+  "address": "Adresse",
+  "site": "Site internet",
+  "weather": "Météo locale",
+  "links": "Liens externes",
+  "link-items": {
+    "item1" : "Site officiel de l’aérodrome",
+    "item2" : "Carte VAC",
+    "item3" : "Site la météo locale",
+    "item4" : "Aéroclubs :",
+    "contact_us" : "Contact us to add your aeroclub"
+  },
+  "radio" : "Ils viennent vous chercher à l’aérodrome ?",
+  "checkboxes": {
+    "item1" : "Hôtels",
+    "item2" : "Locations & Gîtes",
+    "item3" : "Chambre d’hôtes",
+    "item4" : "Campings",
+    "item5" : "Hébergement insolites"
+  },
+  "comments": "Commentaires",
+  "add_comment" : "Ajouter un commentaire & une note",
+  "comment_rating" : "Votre note pour cet aérodrome",
+  "comment_placeholder" : "Votre commentaire...",
+  "comment_btn" : "Envoyer",
+  "signup" : "Sign Up FR",
+  "premium_ads": "Premium Ads",
+  "non_premium_ads": "Other experiences close by"
+}

@@ -1,0 +1,15 @@
+{
+  "name" : "Nom complet",
+  "email" : "Adresse email",
+  "tel" : "Numéro de téléphone",
+  "subject" : "Sujet",
+  "message" : "Message",
+  "report_comment": "Je signale le commentaire de {author} de l'aérodrome {aerodrome} pour les raisons suivantes : ",
+  "subject_types":{
+    "item1"   :    "Demande de contact",
+    "item2"   :    "Demande de partenariat",
+    "item3"   :    "Publication d'une annonce",
+    "item4"   :    "Demande de modération"
+  },
+  "save" : "Envoyer"
+}

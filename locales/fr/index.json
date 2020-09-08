@@ -1,0 +1,39 @@
+{
+  "search_placeholder": "Destination",
+  "search": "Mettre le cap !",
+  "overtitle": "AVION | HÉLICOPTÈRE | PLANEUR | ULM",
+  "title": "Générateur d'aventures réservé aux pilotes",
+  "separator": {
+    "title11": "En quête d’inspiration pour votre prochaine découverte",
+    "title12": " par les airs ? Explorez FORFLYAWAY",
+    "subtitle1": "Une sélection des meilleurs lieux et expériences pour les pilotes",
+    "title2": "Ils viennent vous chercher à l’aérodrome",
+    "subtitle2": "Une sélection d’aérodromes dans lesquels nos prestataires viennent vous accueillir"
+  },
+  "gallery": {
+    "destinations": "Destinations",
+    "btn_see_all_destination" : "Voir toutes les destinations",
+    "item1": {
+      "title": "Escapades Gourmandes",
+      "subtitle": "Restaurants & tables d’hôtes"
+    },
+    "item2": {
+      "title": "Séjours",
+      "subtitle": "Hôtels & gites de charme"
+    },
+    "item3": {
+      "title": "Expériences",
+      "subtitle": "Loisirs & activités"
+    },
+    "item4": {
+      "title": "Transports",
+      "subtitle": "Taxis & mobilité"
+    },
+    "types": {
+      "hotels" : "hébergement | hébergements",
+      "restaurants" : "restaurant | restaurants",
+      "transports" : "transport | transports",
+      "attractions" : "expérience | expériences"
+    }
+  }
+}

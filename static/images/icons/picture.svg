@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="21px" height="16px" viewBox="0 0 21 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>Picture</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Home" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Page-d'accueil" transform="translate(-1219.000000, -1921.000000)" fill-rule="nonzero">
+            <g id="Group-7" transform="translate(20.000000, 1605.000000)">
+                <g id="Group" transform="translate(1048.000000, 0.000000)">
+                    <g id="Group-6-Copy-5">
+                        <g id="Picture-2" transform="translate(151.000000, 316.000000)">
+                            <g id="Picture">
+                                <rect id="Rectangle" fill="#EC616E" x="4.2" y="2.52631579" width="16.8" height="12.6315789"></rect>
+                                <rect id="Rectangle" fill="#213361" x="0" y="2.52631579" width="5" height="12.6315789"></rect>
+                                <ellipse id="Oval" fill="#213361" cx="12.6" cy="9.68421053" rx="5.88" ry="6.31578947"></ellipse>
+                                <ellipse id="Oval" fill="#EC616E" cx="12.6" cy="10.1052632" rx="4.2" ry="4.21052632"></ellipse>
+                                <polygon id="Path" fill="#213361" points="12 15 10 13.5 16.0592727 5.89473684 17.64 7.84453232 12.4246573 14.3157895"></polygon>
+                                <polygon id="Path" fill="#213361" points="8.78383872 13.4736842 8.4 13.17374 14.7530953 5.89473684 15.12 6.21074949"></polygon>
+                                <path d="M14.8259877,6.77111658e-06 L9.54212467,6.77111658e-06 C9.14180753,-0.00133997086 8.76154373,0.198268647 8.50374012,0.545077081 L7.56,2.52631579 L16.8,2.52631579 L15.8643723,0.545077081 C15.6065686,0.198268647 15.2263049,-0.00133997086 14.8259877,6.77111658e-06 Z" id="Path" fill="#213361"></path>
+                                <path d="M1.7970844,1.68421053 L2.39324808,1.68421053 C2.92717042,1.68421053 3.36,2.06123389 3.36,2.52631579 L3.36,2.52631579 L0.84,2.52631579 L0.84,2.52631579 C0.839973491,2.06450277 1.26694129,1.68882866 1.7970844,1.68421053 L1.7970844,1.68421053 Z" id="Path" fill="#EC616E"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

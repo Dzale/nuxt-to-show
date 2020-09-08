@@ -1,0 +1,42 @@
+{
+  "home": {
+    "title": "Home",
+    "desc": "Home desc"
+  },
+  "airport": {
+    "title": "Airports",
+    "desc": "Airports desc"
+  },
+  "advertiser": {
+    "title": "Advertiser",
+    "desc": "Advertiser desc"
+  },
+  "cguv": {
+    "title": "CGUV",
+    "desc": "CGUV desc"
+  },
+  "contact": {
+    "title": "Contact us",
+    "desc": "Contact us desc"
+  },
+  "privacy": {
+    "title": "Privacy",
+    "desc": "Privacy desc"
+  },
+  "service": {
+    "title": "Service",
+    "desc": "Service desc"
+  },
+  "sponsor": {
+    "title": "Sponsor",
+    "desc": "Sponsor desc"
+  },
+  "terms": {
+    "title": "Terms",
+    "desc": "Terms desc"
+  },
+  "user": {
+    "title": "User",
+    "desc": "User desc"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "distance" : "de l’aérodrome",
+  "reserve" : "Découvrir & Reserver",
+  "location" : "Localisation",
+  "time":"Nous vous accueillons à l’aérodrome le",
+  "hendicape":"Accès handicapé",
+  "basic_info":"Information FR",
+  "photo":"Photo FR",
+  "advertiser_info":"Advertiser FR",
+  "additional_info":"Additional FR",
+  "form":{
+    "name": "name FR",
+    "type": "type FR",
+    "excerpt": "excerpt FR",
+    "long_desc": "long_desc FR",
+    "closest_airport": "closest_aeirport FR",
+    "picking_up": "picking_up FR",
+    "distance": "distance FR",
+    "pricing": "pricing FR",
+    "photos": "photos FR",
+    "terms": "terms FR",
+    "min_participants": "min_participants FR",
+    "phone": "Phone FR",
+    "website": "Website FR",
+    "address": "Address FR",
+    "coordinates": "Coordinates FR",
+    "advertiser":{
+        "firstname": "Fisrtname FR",
+        "lastname": "Lastname FR",
+        "businessName": "Business name FR",
+        "rcsNumber": "RSC Number FR"
+    }
+  },
+  "types":{
+    "hotels"        :    "Hébergements",
+    "restaurants"   :    "Restaurants",
+    "transports"    :    "Transports",
+    "attractions"   :    "Attractions"
+  }
+}

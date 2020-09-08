@@ -1,0 +1,14 @@
+{
+    "result" : "Résultat de",
+    "more_filters" : "Plus de filtres",
+    "update" : "Mettre à jour",
+    "more" : "plus d’aérodrome",
+    "filter_title" : "Par catégorie :",
+    "checkboxes": {
+        "item1" : "Ouvert à la CAP",
+        "item2" : "Usage restreint",
+        "item3" : "Terrain privé",
+        "item4" : "Ils viennent vous chercher"
+    },
+    "distance": "Distance par rapport au lieu de recherche"
+}

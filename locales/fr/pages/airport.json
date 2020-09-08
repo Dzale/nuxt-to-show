@@ -1,0 +1,83 @@
+{
+  "navigation": {
+    "item1" : "À propos",
+    "item2" : "Équipements",
+    "item3" : "Informations",
+    "item4" : "Services",
+    "item5" : "Commentaires",
+    "item6" : "Favoris",
+    "item7" : "A visiter"
+  },
+  "download": "Télécharger la carte VAC",
+  "notes": "Notes",
+  "code": "Code OACI",
+  "propos": "À propos de l’aérodrome ",
+  "about-text": "L'{name} ({code}) est situé à {distance} kilomètres de {city} ({postcode}). Cet aérodrome est {classification}.",
+  "equipments": "À propos de l'aérodrome ",
+  "equipment": {
+    "item1" : "Ouvert à la CAP",
+    "item2" : "prestataires viennent vous chercher ici",
+    "item3" : "Avitaillement H24",
+    "item4" : "Aérodrome douanier",
+    "item5" : "Restauration sur site",
+    "item6" : "Camping / hébergement sur site",
+    "item7" : "Atelier mécanique",
+    "item8" : "Parking avion couvert possible",
+    "item9" : "Transport en commun depuis l'aérodrome (bus, métro, tramway, train ou navette)"
+  },
+  "info" : "Informations pratiques ",
+  "info-items": {
+    "item1" : "Longueur de la piste",
+    "item2" : "Distance du centre ville",
+    "item3" : "Temps de trajet",
+    "item4" : "Taxe d’atterrissage",
+    "item5" : "Tarif parking avion",
+    "more_than": "Plus de 1000 mètres",
+    "less_than": "Moins de 1000 mètres"
+  },
+
+  "services" : "Prestataires ",
+  "services-pricing" : "À partir de ",
+  "service-items": {
+    "item1": "Tous",
+    "item2": "Hébergements",
+    "item3": "Restaurants",
+    "item4": "Transports",
+    "item5": "Expériences"
+  },
+  "aeroclub": {
+    "title": "Aéroclub | Aéroclubs",
+    "website": "Site internet",
+    "phone": "Téléphone | Téléphones"
+  },
+  "localisation": "Localisation / Contacts",
+  "address": "Adresse",
+  "website": "Site internet",
+  "phone": "Téléphone",
+  "weather": "Météo locale",
+  "links": "Liens externes",
+  "link-items": {
+    "item1" : "Site officiel de l’aérodrome",
+    "item2" : "Carte VAC",
+    "item3" : "Site la météo locale",
+    "item4" : "Aéroclubs :",
+    "contact_us" : "Contactez-nous pour ajouter votre aéroclub"
+  },
+  "radio" : "Ils viennent vous chercher à l’aérodrome",
+  "checkboxes": {
+    "item1" : "Hôtels",
+    "item2" : "Locations & Gîtes",
+    "item3" : "Chambre d’hôtes",
+    "item4" : "Campings",
+    "item5" : "Hébergement insolites"
+  },
+  "comments": "Commentaires",
+  "add_comment" : "Ajouter un commentaire",
+  "comment_rating" : "Votre note pour cet aérodrome",
+  "comment_placeholder" : "Votre commentaire…",
+  "comment_btn" : "Envoyer",
+  "signup" : "Se connecter ou s'inscrire gratuitement pour voir les annonceurs qui viennent vous chercher à l'aérodrome",
+  "premium_ads": "Ils viennent vous chercher ",
+  "non_premium_ads": "Autres expériences à proximité "
+
+}

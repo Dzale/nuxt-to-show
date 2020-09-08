@@ -1,0 +1,23 @@
+{
+  "review": {
+    "success_created": "Merci pour votre commentaire !"
+  },
+  "contact": {
+    "success_created": "Votre message a bien été envoyé."
+  },
+  "ad": {
+      "success_created": "Merci ! Votre experience à été soumise avec succès."
+  },
+  "user": {
+    "success_updated": "Votre profil a été mis à jour avec succès !",
+    "success_uploaded_avatar": "Votre avatar a été mis à jour avec succès !",
+    "success_updated_favorite": {
+      "remove": "Aérodrome supprimé de vos favoris !",
+      "add": "Aérodrome ajouté aux favoris !"
+    },
+    "success_updated_wishlist": {
+      "remove": "Aérodrome supprimé de votre liste de projets !",
+      "add": "Aérodrome ajouté à votre liste de projets !"
+    }
+  }
+}

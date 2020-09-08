@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="10px" viewBox="0 0 16 10" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>Mail</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Home" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Annonce" transform="translate(-567.000000, -534.000000)" fill-rule="nonzero">
+            <g id="Group-3" transform="translate(109.000000, 526.000000)">
+                <g id="Mail" transform="translate(458.000000, 8.000000)">
+                    <path d="M16,0 L16,8.60491071 C16,9.37539725 15.3894792,10 14.6363636,10 L1.36363636,10 C0.610520796,10 9.2230057e-17,9.37539725 0,8.60491071 L0,0 L8.01272727,5.09672619 L16,0 Z" id="Path" fill="#213361"></path>
+                    <polygon id="Path" fill="#EC616E" points="16 0 8.00908678 6 0 0"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

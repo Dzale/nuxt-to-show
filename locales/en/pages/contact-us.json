@@ -1,0 +1,12 @@
+{
+  "name" : "Name",
+  "email" : "email",
+  "tel" : "Tel",
+  "subject" : "Subject",
+  "message" : "Message",
+  "subject_types":{
+    "item1"   :    "Demande de contact",
+    "item2"   :    "Demande de partenariat",
+    "item3"   :    "Publication d'une annonce"
+  }
+}

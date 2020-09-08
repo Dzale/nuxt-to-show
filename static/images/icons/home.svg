@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="13px" viewBox="0 0 18 13" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>Group 10</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0 0.124571429 17.983992 0.124571429 17.983992 7.77940571 0 7.77940571"></polygon>
+        <polygon id="path-3" points="0 14 18 14 18 0 0 0"></polygon>
+    </defs>
+    <g id="Home" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Annonce" transform="translate(-109.000000, -532.000000)">
+            <g id="Group-3" transform="translate(120.000000, 526.000000)">
+                <g id="Group-10" transform="translate(-11.000000, 5.000000)">
+                    <path d="M16,8 L2,8 L2,13.1695413 C2,13.6282775 2.3784358,14 2.84516542,14 L15.1548346,14 C15.6213281,14 16,13.6282775 16,13.1695413 L16,8 Z" id="Fill-1" fill="#EC616E"></path>
+                    <g id="Group-5" transform="translate(0.000000, 1.000000)">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <g id="Clip-4"></g>
+                        <polygon id="Fill-3" fill="#213361" mask="url(#mask-2)" points="17.983992 7.77940571 9.002712 0.124548571 -0.000168 7.77940571"></polygon>
+                    </g>
+                    <mask id="mask-4" fill="white">
+                        <use xlink:href="#path-3"></use>
+                    </mask>
+                    <g id="Clip-7"></g>
+                    <polygon id="Fill-6" fill="#213361" mask="url(#mask-4)" points="12 14 14 14 14 10 12 10"></polygon>
+                    <polygon id="Fill-8" fill="#213361" mask="url(#mask-4)" points="8 12 10 12 10 10 8 10"></polygon>
+                    <polygon id="Fill-9" fill="#213361" mask="url(#mask-4)" points="4 12 6 12 6 10 4 10"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,80 @@
+{
+  "welcome": "Hey, ",
+  "need_help": "Need Help?",
+  "dont_have_account": "Don't have an account? Sign up!",
+  "sign_up": "Sign me up!",
+  "sign_in": "Sign in",
+  "sign_up_github": "Sign up via Github!",
+  "table_subtitle": "Here you can search, sort, view, add, update or delete items of interest...",
+  "enter_details": "Please enter details below...",
+  "type_to_search": "Start typing to search...",
+  "click_to_select_image": "Click to select image",
+  "yes": "Yes",
+  "no": "No",
+  "day": "day",
+  "days": "days",
+  "not_assigned": "N/A",
+  "no_results": "Nothing to show",
+  "approve": "Approve",
+  "decline": "Decline",
+  "continue": "Continue",
+  "back": "Back",
+  "by": "by",
+  "no_data_text": "No data available",
+  "created_at": "Created at",
+  "updated_at": "Updated at",
+  "unknown_server_error": "Unknown server error!",
+  "search_placeholder": "Destination (Ville/Région/Code OACI)",
+  "search": "search",
+  "days": {
+    "today" : "Today",
+    "Mon"   : "Monday",
+    "Tue"   : "Tuesday",
+    "Wed"   : "Wednesday",
+    "Thu"   : "Thursday",
+    "Fri"   : "Friday",
+    "Sat"   : "Saturday",
+    "Sun"   : "Sunday",
+    "day1"   : "Monday",
+    "day2"   : "Tuesday",
+    "day3"   : "Wednesday",
+    "day4"   : "Thursday",
+    "day5"   : "Friday",
+    "day6"   : "Saturday",
+    "day0"   : "Sunday"
+  },
+  "choose_photo" : "Choose photo",
+  "vueavatar" : {
+    "minsize" : "Image width must be greater then "
+  },
+  "multiple-image": {
+    "dragText" : "Drag images (multiple) FR",
+    "browseText" : "(or) Select FR",
+    "primaryText" : "Set as default FR",
+    "markIsPrimaryText" : "This image will be displayed as the default FR",
+    "popupText" : "This image will be displayed as the default FR",
+    "dropText" : "This image will be displayed as the default FR"
+  },
+  "see_more": "See more",
+  "unknown": "Unknown",
+  "multiselect": {
+      "placeholder": "Select option",
+      "tagPlaceholder": "Press enter to create a tag",
+      "selectLabel": "Press enter to select",
+      "selectGroupLabel": "Press enter to select group",
+      "selectedLabel": "Selected",
+      "deselectLabel": "Press enter to remove",
+      "deselectGroupLabel": "Press enter to deselect group",
+      "limitText": "and ${count} more"
+  },
+  "wysiwyg":{
+    "placeholder" : "Placeholder"
+  },
+  "custom-messages": {
+    "password": "password",
+    "username": "username",
+    "password_confirmation": "password confirmation",
+    "closestAirport": "Closest airport"
+  },
+  "months": ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"]
+}

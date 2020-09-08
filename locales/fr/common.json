@@ -1,0 +1,81 @@
+{
+  "welcome": "Bonjour, ",
+  "need_help": "Besoin d'aide ?",
+  "dont_have_account": "Vous n'avez pas de compte ? Inscrivez-vous !",
+  "sign_up": "Inscription",
+  "sign_in": "Se connecter",
+  "sign_up_github": "Se connecter via Github",
+  "table_subtitle": "Vous pouvez ici chercher, trier, voir, ajouter, mettre à jour et supprimer les articles que vous souhaitez.",
+  "enter_details": "Merci d'entrez les détails ci-dessous",
+  "type_to_search": "Tapez pour rechercher...",
+  "click_to_select_image": "Cliquez pour sélectionner une image",
+  "yes": "Oui",
+  "no": "Non",
+  "day": "jour",
+  "days": "jours",
+  "not_assigned": "N/C",
+  "no_results": "Nous n'avons pas trouvé de résultat pout cette recherche.",
+  "approve": "Approuver",
+  "decline": "Refuser",
+  "continue": "Continuer",
+  "back": "Retour",
+  "back_homepage": "Retour sur la page d'accueil",
+  "by": "par",
+  "no_data_text": "Aucune donnée disponible.",
+  "created_at": "Créé le",
+  "updated_at": "Mis à jour le",
+  "unknown_server_error": "Erreur serveur inconnue.",
+  "search_placeholder": "Destination",
+  "search": "Rechercher",
+  "days": {
+    "today" : "Aujourd’hui",
+    "Mon"   : "Lundi",
+    "Tue"   : "Mardi",
+    "Wed"   : "Mercredi",
+    "Thu"   : "Jeudi",
+    "Fri"   : "Vendredi",
+    "Sat"   : "Samedi",
+    "Sun"   : "Dimanche",
+    "day1"   : "Lundi",
+    "day2"   : "Mardi",
+    "day3"   : "Mercredi",
+    "day4"   : "Jeudi",
+    "day5"   : "Vendredi",
+    "day6"   : "Samedi",
+    "day0"   : "Dimanche"
+  },
+  "choose_photo" : "Choisissez votre photo",
+  "vueavatar" : {
+    "minsize" : "L'image doit être au moins large de "
+  },
+  "multiple-image": {
+    "dragText" : "Déposez des images (multiples)",
+    "browseText" : "(ou) cliquez pour les sélectionner",
+    "primaryText" : "Définir par défaut",
+    "markIsPrimaryText" : "Cette image sera affichée par défaut",
+    "popupText" : "Cette image sera affichée par défaut",
+    "dropText" : "Cette image sera affichée par défaut"
+  },
+  "see_more": "Voir plus",
+  "unknown": "Unknown FR",
+  "multiselect": {
+    "placeholder": "Sélectionnez une option",
+    "tagPlaceholder": "Appuyez sur ENTRÉE pour créer un tag",
+    "selectLabel": "Appuyez sur ENTRÉE pour sélectionner",
+    "selectGroupLabel": "Appuyez sur ENTRÉE pour sélectionner le groupe",
+    "selectedLabel": "Sélectionné",
+    "deselectLabel": "Appuyez sur ENTRÉE pour supprimer",
+    "deselectGroupLabel": "Appuyez sur ENTRÉE pour déselectionner le groupe",
+    "limitText": "et ${count} de plus"
+  },
+  "wysiwyg":{
+    "placeholder" : "Saisissez une description ici..."
+  },
+  "custom-messages": {
+    "password": "mot de passe",
+    "username": "nom d'utilisateur",
+    "confirmation_password": "confirmation du mot de passe"
+  },
+  "months": ["Janvier", "Février", "Mars", "Avril", "Mai", "Juin", "Juillet", "Août", "Septembre", "Octobre", "Novembre", "Décembre"]
+
+}

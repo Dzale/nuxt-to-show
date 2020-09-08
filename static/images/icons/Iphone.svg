@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="10px" height="21px" viewBox="0 0 10 21" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>Iphone</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Home" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Annonce" transform="translate(-382.000000, -526.000000)" fill-rule="nonzero">
+            <g id="Group-3" transform="translate(109.000000, 526.000000)">
+                <g id="Group-2" transform="translate(273.000000, 0.000000)">
+                    <g id="Iphone">
+                        <rect id="Rectangle" fill="#213361" x="0" y="3" width="10" height="14"></rect>
+                        <path d="M10,17 L10,19.2267258 C10,20.2060781 9.38075346,21 8.61687414,21 L1.38312586,21 C0.619246542,21 9.35482367e-17,20.2060781 0,19.2267258 L0,17 L10,17 Z" id="Path" fill="#EC616E"></path>
+                        <path d="M10,1.32912603 L10,3 L0,3 L0,1.32912603 C-9.35482367e-17,0.595081993 0.619246542,2.17304403e-05 1.38312586,2.17304403e-05 L8.60897056,2.17304403e-05 C8.97716583,-0.00200009948 9.33100316,0.137137063 9.59210148,0.386611945 C9.85319981,0.636086827 10.000006,0.975305799 10,1.32912603 Z" id="Path" fill="#EC616E"></path>
+                        <circle id="Oval" fill="#FDFFFF" cx="5" cy="19" r="1"></circle>
+                        <rect id="Rectangle" fill="#FDFFFF" x="3" y="1.799" width="4" height="1" rx="0.5"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

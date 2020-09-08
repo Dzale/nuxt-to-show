@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="57px" viewBox="0 0 48 57" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>Place Copy 3</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Home" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Map" transform="translate(-845.000000, -198.000000)" fill-rule="nonzero">
+            <g id="Place-Copy-3" transform="translate(845.000000, 197.000000)">
+                <path d="M48,24.52 C48.0082119,30.7594106 45.5284727,36.7446157 41.11,41.15 L24.52,57.78 L7.89,41.15 C0.335278543,33.6324926 -1.22037222,21.9746265 4.09880149,12.7391988 C9.41797521,3.50377116 20.282387,-1.0007207 30.575915,1.76152749 C40.869443,4.52377569 48.0191058,13.8623094 48,24.52 L48,24.52 Z" id="Path" fill="#213361"></path>
+                <circle id="Oval" fill="#EC616E" cx="24.52" cy="24.47" r="15.68"></circle>
+            </g>
+        </g>
+    </g>
+</svg>

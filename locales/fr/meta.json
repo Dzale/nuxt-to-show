@@ -1,0 +1,44 @@
+{
+  "home": {
+    "title": "Générateur d'aventures réservé aux pilotes",
+    "desc": "Forflyaway est une plateforme réservée aux pilotes d'aviation légère aimant sortir des sentiers battus dans le cadre de leurs découvertes touristiques par les airs."
+  },
+  "airport": {
+    "title": "Résultats de la recherche",
+    "desc": "Recherches d'aérodromes près de votre destination."
+  },
+  "advertiser": {
+    "title": "Bénéficiez de la clientèle des pilotes de passage sur votre région grâce à FORFLYAWAY",
+    "desc": "Notre plateforme met en relation les pilotes d’aviation légère européens voyageant par les airs dans le cadre de leurs loisirs avec les professionnels du Tourisme situés près des aérodromes du Territoire."
+  },
+  "cguv": {
+    "title": "Conditions générales d'utilisation et de vente de la plateforme",
+    "desc": "La Plateforme Forflyaway est éditée et exploitée par la société Forflyaway marque enregistrée à l’INPI sous le n°19 4 530 396"
+  },
+  "contact": {
+    "title": "Nous contacter",
+    "desc": "Utilisez le formulaire de contact de cette page pour toute demande de contact."
+  },
+  "privacy": {
+    "title": "Politique de confidentialité",
+    "desc": "La présente politique de confidentialité (ci-après désignée la « Politique de confidentialité ») définit le cadre légal de collecte, utilisation et traitement par la Société des données personnelles des utilisateurs naviguant et/ou faisant usage des services proposés ou proposant leurs services via la plateforme web développée par Forflyaway."
+  },
+  "service": {
+    "title": "Service FR",
+    "desc": "Service desc FR",
+    "create_title": "Soumettez votre annonce sur Forflyaway",
+    "create_desc": "Remplissez les informations sur cette page afin de soumettre vos services à la plateforme Forflyaway et sa communauté."
+  },
+  "sponsor": {
+    "title": "Sponsors",
+    "desc": "Sponsors"
+  },
+  "terms": {
+    "title": "Mentions Légales",
+    "desc": "Mentions légales de la plateforme Forflyaway."
+  },
+  "user": {
+    "title": "Profil de l'utilisateur {user}",
+    "desc": "{user} est un membre de Forflyaway, une plateforme réservée aux pilotes d'aviation légère aimant sortir des sentiers battus."
+  }
+}
